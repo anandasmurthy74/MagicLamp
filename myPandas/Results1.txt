@@ -1,0 +1,63 @@
+Group                               Department                                      Subject
+CBS                                 Administration                                  ANNUAL LEAVE
+                                                                                    Disclaimer clause in Email Alerts
+                                                                                    Project Status
+                                                                                    Sending Reports to CEO
+                                    Administration Department                       DEBT RECONCILIATION CHEQUES PAID UNDER VOICE AC 7218 TO EXIM
+                                    CBO                                             ASSIST TO UNLOCK USER RIGHTS-CBS
+                                                                                    ASSIST US AS SYBRIN IS NOT PREVIEWING IMAGES
+                                                                                    REQUESTING USER RIGTHS FOR FDR
+                                                                                    RESET MY SYBRIM PASSWORD-USERNAME PETERNM
+                                                                                    REST MY SYBRIN PASSWORD-USERNAME PETERNM
+                                    CBO Department                                  GL Opening
+                                    CBS                                             CHANGE USER RIGHTS
+                                                                                    FIXED DPOSIT INTEREST RATE
+                                                                                    I SOLVE CLOSURE  ISSUE
+                                                                                    ISOLVE Issue Closure
+                                                                                    ISOLVE Issue Logging
+                                                                                    Intellect Infogen Report
+                                                                                    Issue Follow up
+                                                                                    LEAVE REQUEST
+                                                                                    LOGGING ISSUE IN ISOLVE
+                                                                                    Loggind issue in Isolve
+                                                                                    Password Reset in Treasury
+                                                                                    Password Reset in Workflow
+                                                                                    Password Reset on Treasury Module
+                                                                                    Password reset on Workflow
+                                                                                    Rejection of batch 13/22.05.2015/327
+                                                                                    Rights on Audit Role
+                                                                                    Role Change for Emmanuel
+                                                                                    Sybrin Admin rights
+                                                                                    UAT
+
+System and Database Administration  Not Assigned                                    TONER COPY AND PRINTER
+                                                                                    TONER REQUEST
+                                                                                    USER PROFILE RESET.
+                                                                                    Unable to Access EXIMTZDB database
+                                                                                    Unable to fetch mails
+                                                                                    User EPHRAIMM
+                                                                                    WINDOW UNLOCK AND PASSWORD RESET-KUYELA MSHAMA
+                                                                                    agm secretary
+                                                                                    all telephones are not working at namanga branch
+                                                                                    atm journals- clocktower branch
+                                                                                    cstemeke@exibank-tz.com
+                                                                                    libya atm journal
+                                                                                    please resert my password
+                                                                                    stationary request
+                                                                                    stationery
+                                    Planning, Development and Operation Department  Printer Issue
+                                                                                    TAX BANK LOGIN FOR BRANCHES
+                                                                                    TAX BANK USER RIGHT
+                                    Retail Department                               ACCOUNT REPORTS
+                                                                                    ATM1 REPORT AUG
+                                                                                    MOBILE BANKING MONTHLY TRANSACTION REPORT-MAY
+                                                                                    NOT ABLE TO VIEW ACARM REPORT-INFOGEN
+                                                                                    NUMBER OF ACCOUNTS
+                                                                                    RTL2 & ACARM REPORT
+                                                                                    RTL2 REPORT OF ACCOUNTS OPENED APRIL WITH BAL AS ON MONTH END OF APRIL, MAY AND JULY
+                                                                                    RTL2- ACCS OPENED JUNE & JULY
+                                                                                    mobile banking monthly transaction report
+                                                                                    mobreg-aug
+                                    Risk Department                                 Sending and receiving external emails
+                                    Treasury Front Office Department                VIRUS ON SHARED FOLDER
+Length: 6326, dtype: int64

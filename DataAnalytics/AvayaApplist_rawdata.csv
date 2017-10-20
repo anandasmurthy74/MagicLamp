@@ -1,0 +1,159 @@
+﻿CI Name,Criticality,App Type,Usage,Brand Rating ,SOX Rating,BU Raring,Sharing Rating,Architecture Rating,COTS Rating ,Past 12 month Tickets Total,System Incidents Ranked,Interfaces,Servers,Databases,Hosting & Delivery Rating 
+A1S DATABASE,5,Sales,Database,1,1,1,-1,1,3,240,5,35,6,1,2
+A1S QUOTE CENTER,5,Sales,Quoting,1,1,1,2,3,3,675,5,25,5,1,2
+A1S RENEWALS (A1SR aka CSQT),3,Sales,Quoting,1,1,1,2,3,3,840,5,30,16,1,2
+A2K Reporting,1,SERVICES,Business Intelligence/Reporting,1,1,3,1,3,3,1,1,1,2,1,2
+ACCPAC-APAC-FINANCIAL - Statutory - Accounting Pac..,1,FINANCE,Enterprise Resource Planning,1,1,3,2,3,1,0,1,0,1,1,2
+ADP US Payroll,3,FINANCE,,1,1,1,-1,1,-1,,1,,,,-1
+Agile Product Collaboration 9.3,3,SUPPLY CHAIN,Product Development,1,1,1,1,3,1,28,1,2,16,2,2
+ALDARS,3,APPLICATION SHARED SERVICES,Document/File repository,1,1,3,2,3,2,0,1,1,1,0,2
+ANGSTROM,3,APPLICATION SHARED SERVICES,Middleware,1,1,2,1,1,2,0,1,0,7,1,2
+Ariba Production,3,SUPPLY CHAIN,Procurement,1,1,1,1,3,1,19,2,6,6,1,2
+Avaya Common Gateway,3,APPLICATION SHARED SERVICES,Middleware,1,1,3,2,2,1,1,1,0,2,0,2
+Avaya Data Warehouse,5,APPLICATION SHARED SERVICES,Business Intelligence/Reporting,1,1,3,2,3,2,5,1,1,7,1,2
+Avaya Intelligence and Analytics,1,FINANCE,Business Intelligence/Reporting,1,1,3,2,3,3,54,1,2,8,0,2
+Avaya One Warehouse,3,APPLICATION SHARED SERVICES,0,1,1,1,1,1,-1,36,1,23,20,1,-1
+Avaya Transfer Program,1,HR,Resource Management,1,1,1,1,3,3,4,1,2,2,1,2
+AVAYA.COM-BLOG-PROD,1,BusinessApplicationGroup,Blog,1,1,1,1,1,3,120,5,1,1,1,2
+AVAYA.COM-OWCS-PROD ,3,BusinessApplicationGroup,Websites,1,1,1,1,3,3,300,5,1,20,1,2
+AVAYA.COM-WEBCHAT-PROD,1,BusinessApplicationGroup,Chat,1,1,1,1,1,3,180,5,1,1,0,2
+Barcode Labelprint,3,GABG,Printing,1,1,1,1,1,1,0,1,1,2,0,2
+Biztalk,3,SUPPLY CHAIN,Middleware,1,1,3,2,3,1,40,1,10,9,1,3
+BOXI Reporting,3,APPLICATION SHARED SERVICES,Business Intelligence/Reporting,2,1,3,2,3,1,3,1,1,6,1,2
+BPCC,5,SALES,Project Management,1,1,3,1,3,2,2,1,1,3,1,3
+Brazil Warehouse Information System,3,SUPPLY CHAIN,Business Intelligence/Reporting,1,1,1,1,3,1,1,1,0,1,1,2
+Business Objects Reporting,1,SAP/ERP,Business Intelligence/Reporting,2,1,2,1,3,1,1,1,1,8,1,2
+Cadency,1,FINANCE,0,1,2,1,1,1,-1,4,1,1,0,0,-1
+CareViews Portal,3,SUPPLY CHAIN,Business Intelligence/Reporting,1,1,1,1,2,3,49,2,3,5,1,2
+Clarify Clear Contracts,3,SERVICES,Customer Management,1,2,3,1,3,1,115,2,3,7,1,3
+Cloud Customer Business-Intergration Service,3,APPLICATION SHARED SERVICES,Middleware,1,2,1,1,1,1,38,1,0,0,0,2
+Cognos,3,APPLICATION SHARED SERVICES,Business Intelligence/Reporting,1,1,3,2,3,3,60,2,2,23,2,2
+Cognos Impromptu Reporting,1,FINANCE,0,1,1,1,1,1,-1,0,1,0,3,0,-1
+Common Input Interface,3,FINANCE,Accounting/Finance/Treasury,1,1,3,1,2,3,2,1,3,1,0,2
+Common Output Interface,3,FINANCE,Accounting/Finance/Treasury,1,1,3,1,1,3,0,1,1,2,0,2
+Condition Sheets,3,HR,Payroll,1,1,1,1,3,3,1,1,0,1,1,2
+Connect Direct,3,APPLICATION SHARED SERVICES,Middleware,1,1,3,2,1,1,1,1,1,1,0,2
+Consolidated Productivity Tool,3,SALES,Order Management,1,1,3,2,3,3,7,1,2,2,0,3
+Coupa,3,SUPPLY CHAIN,Procurement,1,2,3,2,1,2,289,2,17,0,0,1
+CPI Trademark Web System,1,LEGAL,Business Intelligence/Reporting,1,1,1,1,3,1,0,1,0,4,1,3
+Currency Feed for SAP,3,FINANCE,Accounting/Finance/Treasury,1,1,3,1,3,3,7,1,5,3,1,2
+Data Science Lab,3,SALES/MARKETING,Business Intelligence/Reporting,1,1,2,1,1,1,0,1,0,3,0,2
+DDM Voyager,5,SALES,Payroll,1,1,3,1,3,2,1,1,3,8,1,3
+Deltek Cost Point,3,FINANCE,Accounting/Finance/Treasury,1,2,3,1,2,1,7,1,1,4,1,2
+Deltek Time and Expense,3,FINANCE,Payroll,1,1,1,1,3,1,5,1,0,3,0,2
+Document Tracking and Reporting,1,APPLICATION SHARED SERVICES,Administer/Manage/Monitor Systems,1,1,1,1,3,3,1,1,2,4,1,3
+Docuware,1,FINANCE,Administer/Manage/Monitor Systems,1,1,3,1,3,1,0,1,1,1,1,3
+DST EDI Conversion,1,SUPPLY CHAIN,Middleware,1,1,2,2,3,3,6,2,1,3,1,2
+EASY-TRANSFER-PRICE-FINANCIAL-BRAZIL,1,FINANCE,Accounting/Finance/Treasury,1,1,3,1,1,1,0,1,0,2,1,2
+EDI-GIS-PROD,3,SUPPLY CHAIN,Middleware,1,2,3,2,3,1,23,2,2,2,1,2
+Engage Human Resources,3,,Ticketing,2,1,3,2,1,1,16,1,0,0,0,2
+eProject Management Tool,5,SALES,Project Management,1,1,3,2,3,2,152,3,11,11,1,3
+E-Supply,3,SUPPLY CHAIN,Customer Management,2,1,3,1,3,3,3,1,1,3,0,2
+ETIME,1,HR,Transactional,1,1,1,1,3,1,156,2,4,0,0,3
+eXtensible Browser Based Platform,3,SALES,Quoting,1,1,3,1,3,2,7,1,1,6,1,3
+Fast Tenovis Application,1,GABG,Middleware,1,1,1,1,3,3,0,1,2,1,0,2
+Field Glass Vendor Mgmt,1,SUPPLY CHAIN,Resource Management,1,1,1,1,3,1,0,1,3,0,0,2
+File Mover,1,APPLICATION SHARED SERVICES,Middleware,1,1,2,1,1,3,1,1,3,5,0,2
+Fusion Middleware,5,APPLICATION SHARED SERVICES,Middleware,1,2,3,2,2,1,36,2,1,0,0,2
+Garant,1,LEGAL,Accounting/Finance/Treasury,1,1,1,1,1,1,1,1,1,1,0,2
+Get Paid,3,SUPPLY CHAIN,Billing/Invoicing,1,1,1,1,3,1,84,5,14,6,1,2
+GFI Application,1,FINANCE,Middleware,1,1,3,1,3,3,1,1,3,5,1,2
+Global Data Warehouse,3,FINANCE,Business Intelligence/Reporting,1,1,1,1,3,3,3,1,0,2,0,3
+Global Data Warehouse Interim Data Marts,3,SUPPLY CHAIN,Business Intelligence/Reporting,1,1,1,2,3,3,0,1,1,1,0,3
+Global Headcount and Budget Tracking Tool,1,SERVICES,Resource Management,1,1,3,1,3,3,0,1,1,4,1,2
+Global Sales Compensation Prod Instance,5,SALES,Payroll,1,1,3,1,3,3,10,1,14,6,2,2
+HR IT Job Library,1,HR,Web Portal,1,1,1,1,3,3,3,1,0,2,1,2
+Hyperion Essbase,3,FINANCE,Business Intelligence/Reporting,1,2,3,1,2,3,106,4,3,3,1,2
+Hyperion Financial Management,3,FINANCE,Business Intelligence/Reporting,1,2,3,1,2,3,0,1,1,5,1,2
+IDA Document Management System,3,SUPPLY CHAIN,Document/File repository,1,1,1,2,3,2,19,1,1,1,1,3
+I-Inquire,3,FINANCE,Business Intelligence/Reporting,1,1,3,1,3,1,3,2,1,4,1,3
+Informatica On Demand,3,APPLICATION SHARED SERVICES,Business Intelligence/Reporting,1,1,3,1,3,1,6,1,1,5,1,2
+IP Lifecycle Management,3,LEGAL,Business Intelligence/Reporting,1,1,1,1,3,1,4,1,2,2,1,3
+IP Office Knowledge Base,1,SALES,Product Development,1,1,1,1,3,3,16,1,3,1,0,2
+IS3E Enterprise Application,3,SERVICES,Middleware,1,2,3,1,3,3,46,1,1,2,1,2
+IXOS Content Management,1,SAP/ERP,Enterprise Content Management,1,1,3,1,3,1,1,1,0,1,0,2
+Leave of Absence System,1,HR,Resource Management,1,1,1,1,3,3,166,3,2,2,1,2
+Liram,1,FINANCE,Accounting/Finance/Treasury,1,1,3,1,2,1,1,1,1,1,1,2
+List Service Mass Mail,3,HR,Communications/Collaboration,1,1,2,1,3,1,1,1,2,1,0,2
+LRS - Leave Request System (Prod instance),1,HR,Resource Management,1,1,1,1,3,3,52,1,1,2,1,2
+Marketing Anonymous Portal,3,MARKETING,Web Portal,1,1,3,2,3,3,1,1,0,4,1,2
+MAT Data Warehouse,1,PRODUCT,Business Intelligence/Reporting,1,1,1,2,2,3,7,2,2,1,0,2
+MIIS,3,HR,Infrastructure,1,1,1,1,2,3,25,1,6,4,1,2
+Moving Average Cost&Inventory Books,1,FINANCE,,1,1,1,-1,1,-1,,1,,,,-1
+MQSeries ENT,3,APPLICATION SHARED SERVICES,Middleware,1,2,3,2,3,3,0,1,0,1,0,3
+MQSERIES-HSPAPP1,3,APPLICATION SHARED SERVICES,Middleware,1,1,3,2,1,1,53,1,0,2,0,3
+My Personal Data,1,HR,Web Portal,1,1,1,1,3,3,18,1,0,1,1,2
+netTIME,1,FINANCE,Payroll,1,1,1,1,3,3,8,2,7,1,1,2
+NETZER,1,HR,Resource Management,1,1,1,1,3,1,0,1,0,0,0,2
+NIMBUS,3,APPLICATION SHARED SERVICES,Product Development,1,1,2,1,3,1,2,1,3,1,0,3
+Nortal Revpro,3,FINANCE,Middleware,1,1,3,1,3,1,0,1,0,1,0,3
+Nortel Financial Interface,3,FINANCE,Middleware,1,1,3,1,2,1,59,1,1,2,1,2
+ODS Cognos,3,APPLICATION SHARED SERVICES,Business Intelligence/Reporting,1,1,3,2,3,3,5,1,2,15,2,2
+ODS Cognos 84 Application,3,APPLICATION SHARED SERVICES,Business Intelligence/Reporting,1,1,3,2,3,3,0,1,1,4,2,2
+ODS Informatica,3,APPLICATION SHARED SERVICES,Business Intelligence/Reporting,1,1,3,2,3,1,14,1,12,7,2,2
+ODS Oracle,3,APPLICATION SHARED SERVICES,Document/File repository,1,1,3,2,2,1,0,1,5,4,2,2
+Opera,1,SUPPLY CHAIN,Business Intelligence/Reporting,1,1,3,2,1,1,8,1,0,1,0,2
+Opera EIQ,1,SUPPLY CHAIN,,1,1,1,-1,1,-1,,1,,,,-1
+Oracle API Gateway,1,APPLICATION SHARED SERVICES,0,1,1,1,1,1,1,2,1,0,2,0,2
+Oracle Business Process Management,5,APPLICATION SHARED SERVICES,Middleware,1,2,3,2,2,1,1,1,2,2,0,2
+Oracle Replication,1,APPLICATION SHARED SERVICES,Document/File repository,1,1,2,1,3,3,6,1,2,1,1,3
+Oracle Sales Cloud Incentive Comp,3,HR,Accounting/Finance/Treasury,1,2,3,2,1,2,9,1,1,0,0,1
+ORS,5,SALES,Project Management,1,1,3,1,3,2,0,1,2,8,1,3
+Parts Mart,3,SUPPLY CHAIN,0,1,1,1,1,1,-1,7,1,1,3,1,-1
+Personnel Admin Auto Employee Change Request,1,SERVICES TS&D,Resource Management,1,1,3,1,3,3,1,1,1,4,1,2
+PMM Staging,1,FINANCE,Quoting,1,1,3,1,2,3,0,1,2,7,0,2
+PMTOOL,1,SERVICES,Product Management,1,1,3,1,3,2,1,1,0,0,0,3
+Post,3,HR,Resource Management,1,1,3,2,3,3,563,2,8,4,0,3
+PRODUCT-LICENSING-DELIVERY-PROD,3,Licensing,License Management,1,2,1,2,3,1,697,2,5,9,1,2
+PROFESSIONAL SERVICES NOW (PSN),3,Sales,eCommerce,1,1,1,2,3,3,210,5,15,6,1,2
+Property Tax Management System,3,FINANCE,Business Intelligence/Reporting,1,1,3,1,3,1,1,1,1,4,1,2
+Prophet By Baxter,5,SUPPLY CHAIN,Billing/Invoicing,1,2,1,2,1,1,0,1,7,0,0,2
+Quarterly Representation Tool,3,FINANCE,Accounting/Finance/Treasury,1,1,3,1,3,3,17,1,2,3,0,2
+Quick Quality Integrated Cube Knowledge,1,SERVICES,Quoting,1,1,3,1,3,3,1,1,1,1,1,3
+Quick Quote Wireline,1,SERVICES,Quoting,1,1,3,1,3,1,1,1,3,2,1,3
+RapidResponse,3,SUPPLY CHAIN,Product Management,1,2,1,1,2,1,130,1,19,2,0,2
+Resource Management System,1,SERVICES,Resource Management,1,1,3,1,3,3,3,2,1,1,1,2
+REVPRO,3,FINANCE,Accounting/Finance/Treasury,1,2,3,1,3,1,15,1,5,4,2,3
+Russia Enterprise Local Accounting Application,1,FINANCE,Accounting/Finance/Treasury,1,1,3,1,3,2,0,1,0,1,0,3
+Sabrix,3,FINANCE,Accounting/Finance/Treasury,1,2,3,1,3,1,14,1,1,2,0,3
+Sales and Use Tax,3,FINANCE,Accounting/Finance/Treasury,1,1,3,1,3,3,1,1,2,2,1,2
+SALESANDPARTNERPORTAL-PROD,5,BusinessApplicationGroup,Website,1,1,1,1,3,3,240,5,1,20,1,2
+SAP A Box Accounts Payable (e-Supply),1,SAP/ERP,Accounting/Finance/Treasury,2,1,3,1,3,1,0,1,0,3,0,2
+SAP B Box,1,SAP/ERP,Product Management,2,1,1,1,3,1,62,2,22,8,1,2
+SAP EDW Application instances,3,SAP/ERP,Business Intelligence/Reporting,2,1,3,2,3,1,52,1,6,9,0,2
+SAP Enterprise Portal,3,SAP/ERP,Web Portal,2,1,2,1,3,1,1,1,2,7,1,2
+SAP FIORI,1,SAP/ERP,Enterprise Content Management,2,1,2,1,2,3,50,1,3,5,1,2
+SAP Nortel Finance and Sales,3,SAP/ERP,Product Management,2,1,3,1,3,1,139,1,28,7,0,3
+SAP Nortel Master Data,3,APPLICATION SHARED SERVICES,Document/File repository,1,1,3,2,3,1,6,1,2,3,0,3
+SAP PI Box -PRD (Projects),1,SAP/ERP,Product Management,2,2,1,1,3,1,70,1,1,4,0,2
+SAP PPM 5.0,1,SAP/ERP,Project Management,2,2,2,1,3,1,49,1,4,6,1,2
+SAP-BPA,3,SAP/ERP,Business Intelligence/Reporting,2,1,3,2,3,1,12,2,0,0,0,2
+SAP-BW-ENT,1,APPLICATION SHARED SERVICES,Business Intelligence/Reporting,2,2,1,1,2,1,14,1,4,4,0,2
+SAP-G1P,5,SUPPLY CHAIN,Product Management,2,1,1,1,3,1,7,1,3,3,0,2
+SAP-H2P,3,SAP/ERP,Resource Management,2,1,1,1,3,1,31,1,2,2,0,2
+SAP-I2P,5,SAP/ERP,Product Management,2,2,3,2,3,1,3172,5,128,22,2,2
+SAU COI Desktop,3,FINANCE,Administer/Manage/Monitor Systems,1,1,3,1,2,1,1,1,0,1,0,2
+Seeburger Prod Environment,1,E-COMMERCE,Middleware,1,1,1,1,2,1,0,1,2,4,1,2
+Services Web Registration Tool,1,SERVICES,Quoting,1,1,3,1,3,3,3,1,1,3,1,2
+SFDC-SALES-PARTNER-PORTAL,3,Sales,Web Portal,1,1,3,1,1,1,360,5,35,Cloud,Cloud,1
+Shift Bid,1,SERVICES,Resource Management,1,1,3,1,3,3,1,2,1,2,0,2
+SOX Express,1,FINANCE,Business Intelligence/Reporting,1,1,3,1,3,1,1,1,1,3,0,2
+SQA StepQ,3,SALES/MARKETING,Quality,1,1,3,1,1,1,0,1,0,3,1,1
+SuccessFactors,3,HR,Resource Management,2,2,1,1,1,1,740,5,60,0,0,1
+Supervisor Transaction Center,3,HR,Resource Management,1,2,1,1,3,3,58,1,6,1,1,2
+Supply Chain Forms,3,SUPPLY CHAIN,Product Management,1,1,1,1,1,1,0,1,0,3,0,2
+Tax Depreciation,1,FINANCE,Accounting/Finance/Treasury,1,1,3,1,3,3,2,1,1,2,0,2
+THESOURCEPORTAL-PROD,1,BusinessApplicationGroup,Web Portal,1,1,1,1,3,3,180,5,1,23,1,2
+TIMECARD application,1,FINANCE,Payroll,1,1,2,1,3,3,12,3,3,8,1,2
+Transfer Manager Schedule,1,HR,Resource Management,1,1,3,2,3,3,0,1,0,4,1,2
+TREX,3,FINANCE,Expense Management,1,2,3,1,3,1,382,5,7,7,2,1
+Vartech,5,SALES,Payroll,1,1,3,1,3,2,1,1,3,8,1,3
+Vertex QR9,3,FINANCE,Accounting/Finance/Treasury,1,1,3,1,1,1,0,1,0,5,1,2
+Vertex Sales and Use Tax,5,FINANCE,Accounting/Finance/Treasury,1,2,3,1,3,1,39,2,1,2,1,2
+Vertex Sales and Use Tax,3,FINANCE,Accounting/Finance/Treasury,1,1,3,1,2,1,19,2,2,4,0,2
+Voice Portal,3,SAP/ERP,Communications/Collaboration,2,1,3,2,2,2,2,2,1,3,0,2
+Voyager ACM/FSO,5,SALES,Billing/Invoicing,1,1,1,1,3,2,0,1,3,8,1,3
+Voyager Adjustments,1,SUPPLY CHAIN,Billing/Invoicing,1,1,1,1,3,2,0,1,0,8,1,3
+WebFocus,1,GABG,Middleware,1,1,2,1,1,3,1,1,0,1,1,2
+WebLogic Application Instance - Integration - Linu..,3,APPLICATION SHARED SERVICES,Middleware,1,2,3,1,3,1,1,1,0,12,1,2
+WebMethods Solaris Cluster,1,APPLICATION SHARED SERVICES,Middleware,1,1,2,1,2,1,55,1,1,6,0,2

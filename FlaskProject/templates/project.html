@@ -1,0 +1,77 @@
+<!doctype html>
+<title>Project Grid layout</title>
+<style>
+body { 
+  display: grid;
+  grid-template-areas: 
+    "header header header"
+    "nav article ads"
+    "nav footer footer";
+  grid-template-rows: 80px 1fr 70px;  
+  grid-template-columns: 25% 1fr 25%;
+  grid-row-gap: 1px;
+  grid-column-gap: 1px;
+  height: 100vh;
+  margin: 0;
+  }  
+header, footer, article, nav, div {
+  padding: 1.2em;
+  background: gold;
+  }
+#pageHeader {
+  grid-area: header;
+  }
+#pageFooter {
+  grid-area: footer;
+  }
+#mainArticle { 
+  grid-area: article;      
+  }
+#mainNav { 
+  grid-area: nav; 
+  }
+#siteAds { 
+  grid-area: ads; 
+  } 
+/* Stack the layout on small devices/viewports. */
+@media all and (max-width: 575px) {
+  body { 
+    grid-template-areas: 
+      "header"
+      "article"
+      "ads"
+      "nav"
+      "footer";
+    grid-template-rows: 80px 1fr 70px 1fr 70px;  
+    grid-template-columns: 1fr;
+ }
+}
+</style>
+<body>
+  <header id="pageHeader"> <em> Project Name : {{ prjdata['prjname']}}
+	<br> 
+	{{ prjdata['desc']}}
+	<br>
+	{{ prjdata['tags']}} </em>
+  </header>
+  <article id="mainArticle">
+  <br>
+  <img src ="{{ (prjdata['images'])[0] }}", alt="Chennai Montage" style="width:500; height:500">
+  <br>
+  <br> <em>
+  {{prjdata['introduction']}}
+  </em>
+  <br>
+  {%	for key in  (prjdata['toc']).keys()  %}
+  {{ key }}
+  <br>
+  <p> {{ (prjdata['toc'])[key] }} <p>
+  <br>
+  {% endfor %}
+  </article>
+  <nav id="mainNav">Tables
+  <img src ="{{ (prjdata['images'])[0] }}", alt="Chennai Montage" style="width:500; height:500">
+  </nav>
+  <div id="siteAds">Ref</div>
+  <footer id="pageFooter">Made by : From : On: </footer>
+</body>
