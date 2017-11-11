@@ -1,16 +1,13 @@
 import matplotlib.pyplot as plt
-from matplotlib import style
 from sklearn.datasets import load_breast_cancer
 from sklearn import tree
 from sklearn.tree import DecisionTreeClassifier, export_graphviz
 from sklearn.model_selection import train_test_split
-import numpy as np
-import pandas as pd 
-import graphviz
 import pydotplus
 import io
 from scipy import misc
-from sklearn.metrics import accuracy_score
+# from sklearn.metrics import accuracy_score
+
 
 def show_tree(tree, features, path):
 	f = io.StringIO()
